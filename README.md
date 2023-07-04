@@ -1,2 +1,2 @@
 # DemoPart1
- Upload the lcal repo
+ Upload the local repo on GitHub Account
